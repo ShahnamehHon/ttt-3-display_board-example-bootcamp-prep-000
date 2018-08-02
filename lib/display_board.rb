@@ -1,5 +1,5 @@
 space = "   |   |   "
-devider "-----------"
+devider  = "-----------"
 def display_board
   puts space
   puts devider
